@@ -17,7 +17,17 @@ body {
 }
 
 .img {
-    width: 150px;
+    background-image: url("photos/background_schema.jpg");
+
+    background-size: no-repeat;
+
+    background-position: center;
+
+    background-size: cover;
+
+    height: 400px;
+
+    width: 400px;
 }
 
 .item {
